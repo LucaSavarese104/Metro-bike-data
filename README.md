@@ -18,7 +18,7 @@ The **Metro Bikeshare Data Analysis Project** is designed to analyze bikeshare d
 - **Data Cleaning**: Remove missing or inconsistent values.
 - **Time-Based Analysis**: Group trips by hour/day to find peak usage times.
 - **Station Analysis**: Count trips starting and ending at each station.
-
+- **Passholder Trends**: Explore how different passholder types contribute to bike usage.
 
 ---
 
@@ -43,7 +43,8 @@ Data source location: **[Metro Bikeshare Trip Data](https://bikeshare.metro.net/
 ## Data Architecture
 ![Data Architecture](<https://i.imgur.com/SuBEIei.png>)
 
-
+## Dimensional Model
+ ![alt text](https://i.imgur.com/NU38X0c.png)
 
 ## Visualizations
 - **Hourly Comparison of Start and End Times**:
@@ -55,5 +56,4 @@ Data source location: **[Metro Bikeshare Trip Data](https://bikeshare.metro.net/
  - **Passholder Distribution**:
  ![Passholder Distribution](<https://i.imgur.com/SWUuzdd.png>)
 
- ## Dimensional Model
- ![alt text](https://i.imgur.com/NU38X0c.png)
+ 
