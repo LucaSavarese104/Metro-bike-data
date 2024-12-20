@@ -38,7 +38,10 @@ Data source location: **[Metro Bikeshare Trip Data](https://bikeshare.metro.net/
 **Number of Rows**: 131760
 
 ## Information Architecture
-![Information Architecture](<hw 1.drawio.png>)
+![Information Architecture](<info h1.png>)
+
+## Data Architecture
+![Data Architecture](<Data arch.png>)
 
 
 
@@ -51,3 +54,6 @@ Data source location: **[Metro Bikeshare Trip Data](https://bikeshare.metro.net/
  ![End Stations](<top 10 end.png>)
  - **Passholder Distribution**:
  ![Passholder Distribution](<Distribution of Trips by Passholder Type.png>)
+
+ ## Dimensional Model
+ ![alt text](model.png)
