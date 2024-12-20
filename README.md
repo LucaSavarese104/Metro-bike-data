@@ -38,22 +38,22 @@ Data source location: **[Metro Bikeshare Trip Data](https://bikeshare.metro.net/
 **Number of Rows**: 131760
 
 ## Information Architecture
-![Information Architecture](<info h1.png>)
+![Information Architecture](<https://i.imgur.com/aovJCjb.png>)
 
 ## Data Architecture
-![Data Architecture](<Data arch.png>)
+![Data Architecture](<https://i.imgur.com/SuBEIei.png>)
 
 
 
 ## Visualizations
 - **Hourly Comparison of Start and End Times**:
-![Hourly Comparison ](<Hourly Comparison of Bike Trip Start and End Times.png>)
+![Hourly Comparison ](<https://i.imgur.com/bVSXWmz.png>)
  - **Top 10 Most Popular Start Stations**:
- ![Start Stations](<top 10 start.png>)
+ ![Start Stations](<https://i.imgur.com/0FsZvBn.png>)
  - **Top 10 Most Popular End Stations**:
- ![End Stations](<top 10 end.png>)
+ ![End Stations](<https://i.imgur.com/K630y4E.png>)
  - **Passholder Distribution**:
- ![Passholder Distribution](<Distribution of Trips by Passholder Type.png>)
+ ![Passholder Distribution](<https://i.imgur.com/SWUuzdd.png>)
 
  ## Dimensional Model
- ![alt text](model.png)
+ ![alt text](https://i.imgur.com/NU38X0c.png)
