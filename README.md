@@ -24,7 +24,7 @@ The **Metro Bikeshare Data Project** is designed to analyze bikeshare data and p
 
 ## Datasets
 
-The following datasets are utilized in this project:
+**The following datasets are utilized in this project:**
 1. **[Metro Bikeshare Trip Data](https://bikeshare.metro.net/about/data/)**:
    - [2024 3rd Quarter trip data used](https://bikeshare.metro.net/wp-content/uploads/2024/10/metro-trips-2024-q3.zip)
 2. **[Metro Bikeshare Station Data](https://bikeshare.metro.net/wp-content/uploads/2024/10/metro-bike-share-stations-2024-10-01.csv)**
