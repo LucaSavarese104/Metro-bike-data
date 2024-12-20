@@ -44,7 +44,7 @@ Data source location: **[Metro Bikeshare Trip Data](https://bikeshare.metro.net/
 
 ## Visualizations
 - **Hourly Comparison of Start and End Times**:
-![Hourly Comparison](<Hourly Comparison of Bike Trip Start and End Times.png>)
+![Hourly Comparison ](<Visualizations/Hourly Comparison of Bike Trip Start and End Times.png>)
  - **Top 10 Most Popular Start Stations**:
  ![Start Stations](<top 10 start.png>)
  - **Top 10 Most Popular End Stations**:
