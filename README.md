@@ -30,7 +30,7 @@ The following datasets are utilized in this project:
 2. **[Metro Bikeshare Station Data](https://bikeshare.metro.net/wp-content/uploads/2024/10/metro-bike-share-stations-2024-10-01.csv)**
 
 ## Data Requirements
-Data source location: **[Metro Bikeshare Trip Data](https://bikeshare.metro.net/about/data/)**
+**Data source location**: **[Metro Bikeshare Trip Data](https://bikeshare.metro.net/about/data/)**
 
 
 **Data Columns**: trip_id, duration, start_time, end_time,start_station, start_kiosk_name, start_region, start_lat, start_lon, end_station, end_kiosk_name, end_region, end_lat, end_lon, trip_route_category, passholder_type, and bike_type
