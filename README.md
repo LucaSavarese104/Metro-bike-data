@@ -2,7 +2,7 @@
 
 ## Overview
 
-The **Metro Bikeshare Data Analysis Project** is designed to analyze bikeshare data and provide insights into trip patterns, station demand, and passholder trends. Using a dimensional modeling approach, the project organizes the data into a structured format to enable analytics and visualization.
+The **Metro Bikeshare Data Project** is designed to analyze bikeshare data and provide insights into trip patterns, station demand, and passholder trends. Using a dimensional modeling approach, the project organizes the data into a structured format to enable analytics and visualization.
 
 ---
 
